@@ -1,0 +1,8 @@
+__pycache__/
+node_modules/
+*.pyc
+*.swp
+.DS_Store
+target/
+Cargo.lock
+package-lock.json

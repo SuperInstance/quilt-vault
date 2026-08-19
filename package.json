@@ -1,0 +1,20 @@
+{
+  "name": "quilt-vault",
+  "version": "0.1.0",
+  "description": "Encrypted cells for Quilt. Privacy as a first-class primitive.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "quilt",
+    "encryption",
+    "e2ee",
+    "privacy",
+    "cells",
+    "vault",
+    "access-control"
+  ],
+  "license": "MIT"
+}
